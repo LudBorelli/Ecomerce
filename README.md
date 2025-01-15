@@ -4,6 +4,7 @@
 
 
 Através de uma base de dados no Excel construí um dashboard utilizando um modelo de regressão linear capaz de analisar as suas vendas e assim, traçar a melhor estratégia para alavancar seus resultados.
+
 Tive como objetivo responder as seguintes perguntas:
 1) Qual a faixa etária dos clientes?
 2) Qual a quantidade de vendas por categoria?
