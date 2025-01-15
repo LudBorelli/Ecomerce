@@ -1,5 +1,8 @@
 # Previsão de Resultados de um e-commerce
 
+![image](https://github.com/user-attachments/assets/86ac1efe-7aab-469b-8f10-90922c760a71)
+
+
 Através de uma base de dados no Excel construí um dashboard utilizando um modelo de regressão linear capaz de analisar as suas vendas e assim, traçar a melhor estratégia para alavancar seus resultados.
 Tive como objetivo responder as seguintes perguntas:
 1) Qual a faixa etária dos clientes?
